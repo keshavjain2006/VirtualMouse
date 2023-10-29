@@ -1,4 +1,4 @@
 # virtualMouse
 
 
-## Developed using OpenCV.
+Developed using OpenCV.
